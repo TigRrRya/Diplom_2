@@ -1,4 +1,5 @@
 package stellarburgers.models.user;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
